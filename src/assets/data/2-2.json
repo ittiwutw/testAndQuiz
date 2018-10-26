@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Factors such as adaptability, quality of mood, and persistence help shape up a person’s adult personality.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.Inner beauty comes from intellectual domain only.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.Race and geographical origin dictate how a person thinks and acts.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4.Social traits include factors such as self-interest, hobbies, and attitude.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no5",
+            "question": "5.A person’s emotional domain or EQ is reflected in a person’s temperament",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no6",
+            "question": "6.The most primitive part of personality is the person’s ego.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no7",
+            "question": "7.A person’s value system dictates how he or she deals with ‘right and wrong.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.A person’s level of education shapes his cognitive domain.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Air traffic controllers maintain the safe and orderly flow of air traffic",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.There are three major elements of National Space which include aviation personnel, equipment, and the environment",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.Air traffic control cannot and does not provide services to privately-owned aircrafts",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.The function of the ATC is to prevent collisions and generate information for users, especially pilots",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.Instructions of the ATC are to be taken as suggestion and advisories are to be obeyed",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6.The concept of ‘separation’ keeps an aircraft with a minimum distance from another aircraft",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no7",
+            "question": "7.In some countries, the ATC is operated by the military",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.Wake turbulence is an important factor which relates the work of the ATC",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        }
+
+
+    ]
+
+}

@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.The correct way to test cosmetics is to test it directly on a person’s face.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no2",
+            "question": "2.The most important makeup is the foundation as well as moisturizer and skin care products.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no3",
+            "question": "3.It is not necessary for men to put on makeup on any occasion.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.Pressed powder is most long-lasting while two-way cake powder is least long-lasting.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no5",
+            "question": "5.The drawback of a matte lipstick is its’ dryness",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no6",
+            "question": "6.What matters most is a person’s face as it dictates the type of makeup to be used.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no7",
+            "question": "7.Brighter colors make a person look younger.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.It is necessary to use brushes in order to obtain steady effect and cleanliness on the face.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

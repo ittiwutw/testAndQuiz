@@ -1,0 +1,11 @@
+page-chapter {
+
+    h1{
+        text-align: center;
+    }
+
+    div :not(img){
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}

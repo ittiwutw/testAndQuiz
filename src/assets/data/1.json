@@ -1,0 +1,389 @@
+{
+    "1-1": [
+        {
+            "desc": "<h1>Airworthiness</h1>Airworthiness  is the ability of an aircraft or other airborne equipment or system to operate without significant hazard to flight and cabin crew, ground crew, passengers, cargo or mail or to the general public and property over which such airborne systems are flown.<br>-is the measure of an aircraft’s suitability for safe flight"
+        },
+        {
+            "desc": "<br><h1>Certification of Airworthiness</h1>*An airline obtains its’ certificate of airworthiness from the state of aircraft registry national aviation authority<br>*It is a document which certifies its’ operation"
+        },
+        {
+            "desc": "<br><h1>FLYING SAFETY</h1>Safety: The state in which the possibility of harm to persons or of property damage is reduced to, and maintained at or below, an acceptable level through a continuing process of hazard identification and  safety risk management. ( SAFETY MANAGEMENT MANUAL, ICAO ,2 nd EDITION  2009 )"
+        },
+        {
+            "img": "../../assets/imgs/1-1.png"
+        },
+        {
+            "desc": "<br><h1>Aviation Security</h1>Aviation Security<br>‘safeguarding civil aviation acts of unlawful interference.’<br>(Chicago Convention, 2006)"
+        },
+        {
+            "desc": "<br><h1>Differences Between Safety & Security</h1><h1><u>Safety</u></h1>*protection against mishaps that are unintended (eg. accidents)<br>*protection against hazards<br>*measures that are adopted to safeguard property or people<h1><u>Security</u></h1>*the protection against deliberate accidents<br>*the state of being free from danger or threat"
+        },
+        {
+            "desc": "<br><h1>Safety Regulatory Organizations</h1>ICAO  = International Civil Aviation Organization<br>IATA = International Air Transport Association<br>FAA = Federal Aviation Administration (USA)<br>OSHA=Occupational Safety & Health Administration<br>EASA = European Aviation Safety Agency<br>CAAT = Civil Aviation Authority of Thailand"
+        },
+        {
+            "desc": "<br><h1>Federal Aviation Administration</h1><li>Flying authority of the USA</li><br> <li> Enforces & issues safety regulations </li><br> <li> Management of air traffic & airspace</li> <br> <li> Certifying foreign aviation & safety</li> <br> <li> Grants licenses </li><br> <li> Registers & records air documents </li><br> <li> R & D </li>"
+        },
+        {
+            "desc": "<br><h1>International Air Transport Association</h1><li>Representing the industry & lobbying government & regulators</li><br><li> Working with airlines to increase pax convenience </li><br><li> Providing support with products & expert services </li>"
+        },
+        {
+            "desc": "<br><h1>International Civil Aviation Organization</h1><CAO = International Civil Aviation Organization<br><br>-main mission is to ensure the safe and orderly growth of international civil aviation throughout the world..’<br>-established in April 1947<br>-believed to be one of the most effective international organizations in the UN system"
+        },
+        {
+            "desc": "<br><h1>Occupational Safety & Health Administration</h1><li>An Agency of the US Department of Labor</li><br><li> Mission is to assure safe and healthy working conditions </li><br> <li> Setting and enforcing standards and by providing training, outreach, education and assistance </li><br> <li> Reduce injury rates and injury costs </li>"
+        }
+    ],
+    "1-2": [
+        {
+            "desc": "<h1>Accidents</h1>An accident is a sudden (negative) event that is not planned or intended and causes damage or injury."
+        },
+        {
+            "desc": "<br><h1>Air Accident</h1>An occurrence associated with the operation of an aircraft that takes place between the time any person boards the aircraft with the intention of flight and the time all such persons have disembarked, and in which any person suffers a fatal or serious injury or the aircraft receives substantial damage."
+        },
+        {
+            "desc": "<br><h1>Facts About Accidents</h1><u>- Complex</u><br>involves multiple causes<br><br><u>- Similar accidents may require different preventive strategies</u><br><br><u>- Related bodies classify accidents by </u><br>Causes<br>sequence of events, phase of operation<br>"
+        },
+        {
+            "img": "../../assets/imgs/1-2.png"
+        },
+        {
+            "desc": "<br><h1>Accident Models…</h1><li>Help explain the relationship between hazards & accidents</li><br> <li> Assist in explaining & understanding reality </li><br> <li> Aid in visualizing topics, issues that cannot be directly observed </li><br> <li> Serve as approximates for events & happening </li>"
+        },
+        {
+            "desc": "<br><h1>Accident Models</h1>*a systematic method of ascertaining the causes of an accident.<br><br>*Models used for risk analysis & risk management of human systems."
+        },
+        {
+            "desc": "<br><h1>Incidents</h1>an event or disagreement that is likely to cause serious problems<br>an unexpected and usually unpleasant event that happens"
+        },
+        {
+            "desc": "<br><h1>Incidents in the Aviation Field</h1>- An occurrence other than an accident associated with the operation of an aircraft that affects or could affect the safety of operations<br><br><li>Hazardous in nature</li><br><li>“Near accidents” </li><br> <li> Not as serious as accidents </li><br> <li> Usually lead to accidents </li><br>though with reporting---they are handled and put to an end"
+        },
+        {
+            "desc": "<br><h1>Examples of Aviation Incidents</h1><li>Flight control system malfunction</li><br> <li> In-flight fire </li><br> <li> FOD (Foreign Object Debris) reported  on runway"
+        },
+        {
+            "desc": "<br><h1>Accident Models</h1>*S.H.E.L.L Model- studies the relationship and interface between software, hardware, environment, and liveware<br><br>*Threat & Error Management Model- studies the possible threats which have tendency lead to error which degrade performance. The model suggest for ways to manage threat to lesson error. <br><br>*Swiss Cheese Model- A model that presumes that organizations are with both visible and latent faults which can be compared to holes in the Swiss Cheese.  The model suggest for the holes to be covered up by different techniques."
+        }
+    ],
+    "1-3": [
+        {
+            "desc": "<h1>Threat</h1>Threat: Events or errors that occur beyond the influence of the line personnel, increase operational complexity, and which must be managed to maintain the margins of safety"
+        },
+        {
+            "desc": "<br><h1>What is Hazard ?</h1>A hazard is defined as a  condition or an object with the potential to cause injuries to personnel, damage to equipment or structures, loss of material, or reduction of ability to perform a prescribed function<br>A hazard  is defined as unsafe acts and unsafe conditions"
+        },
+        {
+            "desc": "<br><h1>What is the Difference Between Threat & Hazard?</h1><li>They are different states of the same thing<li><br>Hazard is the source in a harmless state<br>Threat is the source in a harmful state"
+        },
+        {
+            "desc": "<br><h1>What is the Difference Between Threat & Hazard?</h1><br>Natural risks usually can be traced to hazards<br>Human risks usually can be traced to threats<br>***A threat could be changed into hazard if it could be manipulated into a harmless state***"
+        },
+        {
+            "desc": "<br><h1>Examples of Threats & Hazards</h1>Hazard<br>-river near to your factory<br>Threat<br>-flood flowing from the north"
+        },
+        {
+            "desc": "<br><h1>Primary Safety Factors</h1>Factors most closely correlated with accidents such as…<br>*personnel capabilities<br>*air traffic environment<br>*aircraft capabilities<br>*weather<br>*Unpredictable acts"
+        },
+        {
+            "desc": "<br><h1>Secondary Factors</h1>*airline maintenance & personnel training<br>*Federal air traffic control management practice<br>*Aviation manufacturer’s design & production practices"
+        },
+        {
+            "desc": "<br><h1>Examples of Threats & Their Management</h1><h1>Anticipated turbulence:</h1>Flight attendants must immediately sit down and take the nearest seat.<h1>Fire in the Galley:</h1>Flight attendants have to immediately remove electrical power from the galley by placing the galley emergency power to OFF.<h1>Fire in the Cabin During Taxi:</h1>The first flight attendant has to immediately use the nearest hand fire extinguisher to fight the fire while the second flight attendant informs the air purser and captain.  After fire-fighting, all will have to wait for further instructions given by the cockpit<h1>Damaged Chamber of the Slide During Evacuation:</h1>The flight attendant will have to redirect the passengers to other doors in order to limit the weight being put onto the only chamber of the slide."
+        },
+        {
+            "desc": "<br><h1>Examples of Threats & Their Management</h1><h1>A Damaged Dangerous Goods Package Found in the Cabin:</h1>It is necessary that the flight attendant makes use of all the available ‘protective breathing equipment’ in order to protect themselves from the dangerous vapor in the cabin<h1>Hi-jacking During Flight:</h1It is necessary that flight attendants keep passengers in their seats with seat belts fastened in order to avoid interference, and have one flight attendant assigned to communicate with the hijacker.><h1>Passenger with Heatstroke: </h1>The flight attendant will have to lower the passengers’ body temperature as quickly as possible."
+        },
+        {
+            "desc": "<br><h1>Biggest Threat On Board Fire in Hidden Area</h1> Fire in Hidden Area<br>-Crown area: the area above ceiling panel<br>-Dado panels: the vents that are at the foot of the side wall panels<br>-Triangle area: the area below the floor outboard of the cargo area <br>Lavatory Fire<br>The Fire Fighting Team Consists of:<br>-Fire fighter: The person directly fighting fire<br>-Communicator: The person acting as liaison<br>- Supporter: The person supporting in other activities such as supplying additional fire extinguisher, controlling the crowd, and etc"
+        }
+    ],
+    "1-4": [
+        {
+            "desc": "<h1>Human Factors</h1><h1>Human Factors</h1>Human Factors attempts to research and explain the nature of human behavior and human performance.  <br>The most important thing is to know the external factors that have negative influence on human factors.<br>We study it in order reduce air accidents"
+        },
+        {
+            "desc": "<br><h1>Human Factors</h1>Encompasses fields of study including…<br>engineering<br>psychology<br>anthropometry<br>biomechanics<br>biology<br>medical science"
+        },
+        {
+            "desc": "<br><h1>Human Factors</h1>concentrates on studying the capabilities and limitations of humans<br>in order to design systems that reduce the mismatch between what is required of & what the human is capable of doing."
+        },
+        {
+            "desc": "<br><h1>Human Performance</h1> a measure of human activity that expresses how well a human has carried out an assigned, well-defined task or a portion of a task, and it is a function of speed and accuracy.<br>Inaccurate performance = error"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1>Factors:<li>Physical</li><br><li>Psychological</li><br><li>Psychosocial</li><br><li>Hardware</li><br><li>Nature of Task</li><br><li>Environmental</li>"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1><h1>Physical Factors</h1>-body size<br>-body dimension<br>-age<br>-strength<br>-physical skills<br>-aerobic capacities<br>-body senses<h1>Physiological Factors</h1>-general health<br>-mental health<br>-medical conditioning<br>-usage of substances<br>-sickness"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1><h1>Psychological Factors</h1>-mental state<br>-emotional state<br>-information processing<br>-personality types<h1>Psychosocial Factors</h1>-peer pressure<br>-life events<br>-excessive social activities<br>-mental stress from work"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1><h1>Hardware Factors</h1>-design of equipment<br>-software<br>-interface between man & machine<h1>Task Factors</h1>-nature of task<br>-workload<br>-level of training"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1>Environmental Factors<br>-noise<br>-temperature<br>-humidity<br>-motion<br>-vibration"
+        },
+        {
+            "desc": "<br><h1>Grouping of Human Performance</h1><li>One or combination of factors can<li>Degrade human performance</li><li>Lead to accidents (Reason’s Model)</li></li>"
+        },
+        {
+            "desc": "<br><h1>Human Error</h1><li>It is natural to make mistakes</li><br><li>Mistakes are unavoidable</li><br><li>Organizations usually set tolerable range for errors</li>"
+        },
+        {
+            "desc": "<br><h1>Examples of Error</h1><li>Not performed when required</li><br>li>Performed when not required</li><br>li>Performed incorrectly</li><br>li>Performed late</li>"
+        },
+        {
+            "desc": "<br><h1>Management of Human Error</h1>Two Strategies<br>1.Engineering Strategies<br>2.Administrative Strategies<br>*The strategies only minimize or delay human errors as the errors can never be eliminated"
+        },
+        {
+            "desc": "<br><h1>Management of Human Error</h1><h1>Engineering Strategies</h1>-automation<br>-human factors engineering<br><h1>Administrative Strategies</h1>-selection during recruitment<br>-training<br>setting new rules & regulations<br>-setting new working routine/procedure<br>-workload management"
+        }
+    ],
+    "1-5": [
+        {
+            "desc": "<h1>Three Major Elements of National Airspace</h1>1.People- pilots, instructors, mechanics, passengers, etc.<br>2.Equipment- aircraft, machines, etc.<br>3.Infrastructure- facilities and equipment<br>aircraft control facilities, navigation aids, radar, airspace, etc."
+        },
+        {
+            "desc": "<br><h1>Air Traffic Control ATC</h1><li>a service provided by ground-based controllers who direct aircraft on the ground & through controlled airspace.</li><br>li>while in non-controlled airspace, ATCs can also provide advisory services to aircrafts</li>"
+        },
+        {
+            "desc": "<br><h1>Air Traffic Controllers</h1><li>People who are trained to maintain the safe, orderly and expeditious flow of air traffic in the global air traffic control system.</li>"
+        },
+        {
+            "desc": "<br><h1>Air Traffic Control ATC</h1>In some countries, ATC plays a security or defensive role….<br>being operated by the military<br>In many countries…<br>ATC provides services to private, military as well as commercial aircraft."
+        },
+        {
+            "desc": "<br><h1>Functions of Air Traffic Control</h1><li>prevent collisions</li><br>li>Organize & expedite the flow of air traffic</li><br>li>Provide & support information for pilots</li>"
+        },
+        {
+            "desc": "<br><h1>Work  of ATC</h1>Depending on the type of flight and the class of airspace, ATC may issue instructions , advisories or flight information.<br>Instructions have to be obeyed while<br>Advisories may be disregarded."
+        },
+        {
+            "desc": "<br><h1>ATC</h1>In order to prevent collisions, ATC enforces traffic separation rule…<br>Separation<br>the concept of keeping an aircraft outside a minimum distance from another aircraft to reduce the risk  of aircraft collision as well as accidents from <br>Wake turbulence or turbulence that forms behind an aircraft  as it passes through the air."
+        },
+        {
+            "desc": "<br><h1>Separation Rule</h1>Separation Rule <br>=<br>Separation Minima"
+        }
+    ],
+    "1-6": [
+        {
+            "desc": "<h1>Airport Safety</h1><h1>Commercial Airport </h1>a tract of land (or water) that provides facilities for landing, takeoff, shelter, supply & repair of aircraft and has a passenger terminal.<br>Airports that serve air carrier is required to be certified & to be with an Airport Certification Manual (ACM)."
+        },
+        {
+            "desc": "<br><h1>Airport Certification Manual ACM</h1>Contains:<br>-airport accountability structure with list of<br>key personnel & their responsibilities<br>-airport grid map & description regarding<br>airport layout, maps, & charts<br>-Identification system for runways, <br>taxiways, aprons, & other movement<br>areas"
+        },
+        {
+            "desc": "<br><h1>Airport Certification Manual ACM</h1>continue<br>-Runway & taxiway lighting  and marking<br>together with hold positions<br>-Outlining aircraft movement areas<br>-Procedures for using, storing, & disposing<br>of hazardous materials<br>-allocating & maintaining safety areas"
+        },
+        {
+            "desc": "<br><h1>Airport Certification Manual ACM</h1>Continue<br>-Methods for maintaining traffic &<br> wind indicators<br>Procedures for maintaining lighting,<br>lighting systems, and paved & unpaved<br>areas<br>Procedures & coordination issues during<br>construction projects"
+        },
+        {
+            "desc": "<br><h1>Airport Certification Manual ACM</h1>ContinueM<br>-Self-inspection programs together with<br>procedures to address corrective actions<br>-Protection of NAVAIDS<br>NAVAIDS<br>any sort of marker which aids the traveller in navigation<br>most commonly used to refer to nautical or aviation travel"
+        },
+        {
+            "desc": "<br><h1>Airport Certification ManualACM</h1>continue<br>-Reporting of airport conditions<br>-Location of obstructions to air navigation<br>-Security & public protection<br>-Crash, fire, rescue, & fire fighting<br>procedures and equipment servicing<br>-Control of ground vehicle traffic<br>-Snow & ice removal<br>-Bird & wildlife management plan-Airport Emergency Plan"
+        },
+        {
+            "desc": "<br><h1>Airport Emergency Plan</h1>Plans are to be<br>-Documented<br>-Published<br>-Distributed to concerning parties<br>-Coordinated"
+        },
+        {
+            "desc": "<br><h1>Airport Emergency Plan</h1>Emergencies include:<br>-aircraft accidents<br>-bomb threats<br>-sabotage<br>-hijacking<br>-major fires<br>-natural disasters<br>-power failure"
+        },
+        {
+            "desc": "<br><h1>Airport Emergency Plan</h1>Coordination must be done<br>internally<br>externally<br>Reviewed annually with drills every 3 years"
+        }
+    ],
+    "1-7": [
+        {
+            "desc": "<br><h1>Preventive Actions to Manage Aviation Threats</h1><li>Access Control</li><br><li>Security & Screening</li><br><li>Surveillance</li><br><li>Aircraft Security<li>Pre-flight security check</li><br><li>Post-flight security check</li></li>"
+        },
+        {
+            "desc": "<br><h1>The Means of Entrants to the Airport for Terrorists</h1>*Passenger Terminal<br>*Crew Terminal<br>*Cargo Terminal<br>*Catering Center"
+        },
+        {
+            "desc": "<br><h1>Access Control</h1><h1>Screening of</h1>-staff<br>-vehicles<br>-objects to be taken into the parts of<br>airport<h1>Screen by</h1>-checking of Airport Pass or ID Card<br>-scanning of finger(s)<br>-typing in access code(s)"
+        },
+        {
+            "desc": "<br><h1>Importance of ID Card</h1><li>It shows who you are</li><br><li>It is purely your identity</li><br><liIt is an official document></li>"
+        },
+        {
+            "desc": "<br><h1>Things You Should Do with Your ID Card</h1><li>Clearly Display it when on duty</li><br><li>Make a photocopy or</li><br><li>Take a picture of the card </li><br><li>Always check the expiry date</li><li></li>Always take good care of it<br><li>Do not lend it to anyone</li><br><li>Do not misuse</li><br><li>Do not allow other unauthorized persons to enter or gain access using your card</li><br><li>Do not use your ID card for non-official purpose when not on duty</li>"
+        },
+        {
+            "desc": "<br><h1>What to do When Your ID Case is Lost or Stolen</h1><li>Report the loss immediately to the concerning body</li><br><li>Make cancellation to the ID card that you have lost</li><br><li>Apply for replacement of new card</li>"
+        },
+        {
+            "desc": "<br><h1>Passengers’ Access</h1>It is responsibility of all concerning parties starting from the time of<br>-entrance to the airport<br>-check-in<br>-entrance to the departure area<br>-entrance to the aircraft"
+        },
+        {
+            "desc": "<br><h1>Airline Personnel in Concern</h1>Passenger Service Personnel<br><li>Check-in staff</li><br><li>Gate Staff</li><br>Airport Security<br>Flight Attendants<br>Ground Service Personnel & Flight Attendants must…<br>-ensure that passengers have complete<br>& matching travel documents<br>-Names on boarding pass must match with<br>ones in the passport<br>-Report any suspicious behavior"
+        },
+        {
+            "desc": "<br><h1>Examples of Aviation Security</h1>Procedure when there is passenger who fails to board the plane:<br>The baggage of the passenger will have to be offloaded and inspected.In the case that the passenger is in transit, inspection will have to be done around his assigned seat.  Information will have to constantly be updated to the captain regarding the inspection.<br>Procedure to recheck that no ground personnel remains on board before closing all doors:<br>The flight attendant who is assigned to be guarding the entry door will be the one to ensure that no ground personnel remains on board"
+        }
+    ],
+    "1-8": [
+        {
+            "desc": "<h1>Airport Operational Safety</h1>Topics include:<br>*Airport terminal buildings<br>*Hangars & maintenance shops<br>*Ramp operations<br>*Runway incursions<br>*Specialized services"
+        },
+        {
+            "desc": "<br><h1>Airport Terminal Buildings</h1>*The buildings &  facilities minimize pax delay & speed flow in the airport<br>*Needs to meet design & construction standards<br>Standard cover the areas of<br>-materials used<br>-fire protection<br>-colors used"
+        },
+        {
+            "desc": "<br><h1>Safety Consideration for Airport Terminal Facilities</h1><li>Emergency evacuation<li>Signs, routes, plans, lighting</li></li><br><li>Access for persons with disabilities</li><br><li>Stairs, ladders, walkways should be kept clean & free</li><br><li>Automatic doors</li><br><li>Automatic doors </li><br><li>Escalators</li><br><li>Moving walkways</li>"
+        },
+        {
+            "desc": "<br><h1>Safety Consideration for Airport Terminal Facilities</h1>Cont.<br><li>Protective layers <li>Roof top, windows, etc.</li></li><br><li>Safe access to heating, ventilation, & air-con</li><br><li>Safety equipment<li>Fire extinguisher, PBE, etc.</li></li><br><li>Ergonomics to be applied to counters, conveyors belts, & other facilitiesInspection plans</li>"
+        },
+        {
+            "desc": "<br><h1>Hangars & Maintenance shops</h1>Concerning Issues:<br>-Walkways<br>spacing, aisles, elevation, etc.<br>-Working surfaces<br>material, protection, etc.<br>-Electrical<br>wiring, location, shield, storage<br>-Miscellaneous<br>hazardous energy usage, cranes, handling<br>equipment, noise protection, hoist, etc."
+        },
+        {
+            "desc": "<br><h1>Ramp Operations</h1>Airport Ramp: area where aircrafts function<br>*ramp areas therefore is designed for<br>planes not other vehicles<br>*signs & markings are for planes<br>*the area involves high-paced activities…"
+        },
+        {
+            "desc": "<br><h1>Specialized Services</h1><li>Aviation Fuel Handling<li><br><li>Aircraft Rescue & Fire Fighting<li><br><li>Deicing<li>"
+        },
+        {
+            "desc": "<br><h1>Airport Surface Environment</h1>A complex system<br>-of marking, lighting, and signage<br>-which integrates interface between large number of airplanes, ground vehicles, and groups of air personnel"
+        },
+        {
+            "desc": "<br><h1>Vehicles Required at Most Airports</h1><li>Fuel truck for aircraft refueling<li><br><li>Airport Authority vehicles for maintenance tasks<li><br><li>Maintenance vehicles <li><br><li>Snowplows <li><br><li>Baggage, catering, and utility trucks<li><br><li>Emergency vehicles<li><br><li>Construction vehicles<li><br>(<li>FAA vehicles…)<li><br>"
+        }
+    ],
+    "1-9": [
+        {
+            "desc": "<h1>Security Measures for passengers & Baggage</h1><li>All checked baggage must be subjected to x-ray screening</li><br><li>Screened baggage must be affixed with security sticker</li><br><li>Passenger must personally check-in his or her baggage</li>"
+        },
+        {
+            "desc": "<br><h1>Security Technologies</h1>Commercial aviation can be protected from threat of explosives by….<br>1.Protecting explosives from reaching the aircraft<br>2.(With presence of explosives) Lessening the effects"
+        },
+        {
+            "desc": "<br><h1>Security Technologies</h1>*X-ray Imaging<br>*Metal Detectors<br>*Biometrics<br>*Sample Collection<br>*Passive Millimeter-Wave Imaging<br>*Active Millimeter-Wave Imaging"
+        },
+        {
+            "desc": "<h1>Other Methods</h1><li>Strengthening Aircraft & Baggage Containers</li><br><li>Reinforcement of Cockpit Door</li><br><li>Computer-Assisted Passenger Screening</li>"
+        },
+        {
+            "desc": "<br><h1>Security Measures for passengers’ Baggage</h1>There are  3 portions to standard baggage tag<br>1.Put on the bag<br>2.Given to the passenger<br>3.Kept with the airline for loading purpose"
+        },
+        {
+            "desc": "<br><h1>Baggage Reconciliation</h1><h1>When the passenger does not show up for boarding,</h1><h1>Baggage must be offloaded</h1>"
+        },
+        {
+            "desc": "<br><h1>Carriage of Weapons</h1>Passengers wishing to carry weapons must present proper documents authorized by the police authority to accept the loading of such<h1>Carriage of Dangerous Goods</h1>Uplift of dangerous goods must be approved & granted by related official bodies"
+        },
+        {
+            "desc": "<br><h1>Carriage of Firearms</h1><li>Uplift of firearms must be approved & granted by related official bodies</li><br><li>Firearms shall not be carried into the cabin</li><br><li>Security escorts must be arranged and provided for retrieval and uplift of firearms</li>"
+        },
+        {
+            "desc": "<br><h1>Carriage of Dangerous Goods</h1><li>It is necessary for flight attendants to have knowledge about dangerous goods in order to handle those goods during flight.</li><br><li>Flight attendants must ensure that no dangerous goods, other than those permitted are carried on board.</li><br><li>In the case that during boarding, a package of dangerous goods is found, flight attendants must report to the captain and ground personnel to take further action.</li><br><li>In the case that a package of dangerous goods is found during the flight, the flight attendant must report to the captain. The package has to be taken away from the passenger and stowed in the empty waste container of a lavatory as far as possible from the flight deck and the lavatory door should be locked from the outside.</li><br><li>If a package of dangerous goods is found during flight with leaking vapor, flight attendants must protect themselves with Protective Breathing Equipment (PBE).</li>"
+        }
+    ],
+    "1-10": [
+        {
+            "desc": "<h1>Aircraft Safety System</h1>Advanced aircraft technology leads to excellent safety record & performance.<br>Components of Aircraft Safety System<li>Cockpit/Flight Management System</li><br><li>Inter/Intra Communication Systems</li><br><li>Cabin Safety System</li>"
+        },
+        {
+            "desc": "<br><h1>Parties Involved in Structural Safety</h1>Manufacturer:<br>ones who design, build &<br>support in services<br>Airlines: operators who use, inspect<br>& maintain the planes<br>Airworthiness<br>Authorities:<br>ones who establish rules &regulations, approve the design, & <br>promote airline maintenance performance"
+        },
+        {
+            "desc": "<br><h1>Cockpit Safety Systems</h1><li>Stall Protection</li><br><li>Ground Proximity Warning System (GPWS)</li><br><li>Speed Warning System</li><br><li>Over bank protection</li><br><li>Wind shear alert system</li>"
+        },
+        {
+            "desc": "<br><h1>Cockpit Management System</h1><li>Auto-pilot (cruise)</li><br><li>Manual Flying (take-off, landing)</li><br><li>Flight Procedure</li>"
+        },
+        {
+            "desc": "<br><h1>Cabin Safety System</h1><li>Emergency equipment</li><br>*Life vests<br>*Evacuation slides<br>*Flotation devices(Ditching)<li>Emergency Procedures eg.Safety check </li><br><li>Emergency Briefing to Passengers</li>"
+        },
+        {
+            "desc": "<br><h1>Examples of Emergency Procedures</h1><h1>Fueling witih Passengers On Board:</h1>Flight attendatns will have to tell passengers to release seat belt, remain seated, and do not smoke.<br><h1>Flight without or with Inadequate Infant Life Vest:</h1>One chamber of the adult life vest is to be inflated and that the middle strap is to be shortened.<br><h1>Safety Check:</h1>Flight attendants will have to recheck cabin and passengers’ seat, lock all lavatory doors, and return to assigned seats.<br><h1>Usage of Electronic Devices On Board:</h1>Electronic devices cannot be used after all doors close."
+        },
+        {
+            "desc": "<br><h1>Inter/Intra Communication Systems</h1><li>Intra<li>Interphone</li><br><li>PA system</li><br><liSignals></li></li><br><li>Inter<li>Datalink same concept as chat through satellite</li><br><li>VHF everyday use</li><br><li>HF places with no VHF (India, oceans)</li></li>"
+        },
+        {
+            "desc": "<br><h1>Example of Commands by Flight Attendants to Passengers</h1>During Emergency Landing Before Touch Down:<br>“Brace, Brace”<br>Case of Evacuation After Emergency Landing: <br>“Release Seat Belt, Get & Out”<br>Crowd Control:<br>“Calm Down, Remain Seated”<h1>Examples of Emergency Briefing at Exit Rows</h1>You are seated at the emergency exit row.<br>You may be asked by the flight attendants to assist during the time of emergency opening of the door.<br>If you are not happy to help, you will be relocated to a new seat."
+        },
+        {
+            "desc": "<br><h1>Urgency Call to be Made by the Cockpit to the Cabin</h1>It can be made by the captain through flashing seat belt signs, direct <br>PA system announcement, and service interphone."
+        },
+        {
+            "desc": "<br><h1>Sterile Cockpit</h1>It is the period of time to keep the cockpit free from distraction during critical phases of flight in order to maintain the level of safety for the flight.<br>The flight attendants are allowed to call the cockpit in time of sterile cockpit only if emergency or serious medical cases occur."
+        }
+    ],
+    "1-11": [
+        {
+            "desc": "<h1>Terrorism</h1>Unlawful use of force & violence against persons or property to intimidate or coerce a government, the civilian population, or any segment…in furtherance of political or social objectives (US Code of Federal Regulations)<br>There are at least 4 Types of Terrorism:<br>1.Civil Disorders<br>2.Political Terrorism<br>3.Non-political Terrorism<br>4.Quasi-Terrorism"
+        },
+        {
+            "desc": "<br><h1>Aircraft Hijacking</h1>-also known as air piracy<br>-is an unlawful seizure of an aircraft by an individual or a group<h1>Sabotage</h1>-the act of destroying or damaging<br>something deliberately so that it<br>no longer functions properly<br>-form of attack or<br>disruption with perpetrators<br>distanced from the scene"
+        },
+        {
+            "desc": "<br><h1>Bomb Threat </h1>-generally is considered as threat<br-usually come in written or verbal forms-threatens for the existence of explosive<brdevice(s) that will cause property<br damage, loss, and/or death."
+        },
+        {
+            "desc": "<br><h1>Procedure or Management of Bomb Threat</h1><li>Activate recording device</li><br><li>Prolong conversation<h1>How to Prolong Conversation</h1><li>Allow the caller to talk</li><br><li>Be attentive to the things he speaks of</li><br><li>Signal co-workers to activate call tracing</li><br><li>Don’t be in a hurry to ask about the bomb</li></li><br><li>Note exact words & characteristics of the call</li><br><li>Alert your supervisors </li><br><li>Initiate call tracing if available</li><br><li>Ascertain flight & caller’s detail</li>"
+        },
+        {
+            "desc": "<br><h1>Recognition of Explosive Devices</h1><li>Power source</li><br><li>Explosives</li><br><li>Detonator</li><br><li>Electric wires</li><br><li>Activating switch</li>"
+        },
+        {
+            "desc": "<br><h1>What to Do When a Suspicious Object is FoundInform supervisors<br>Report on the item<br>Contact police<br>Do not touch the item</h1><h1>Reporting of Suspicious Object</h1><li>Report that a suspicious object has been found</li><br><li>Describe the object’s characters</li><br><li>Identify other suspicious activities & happening</li>"
+        },
+        {
+            "desc": "<br><h1>What to do when a Dangerous Good is Found?</h1><h1>On Ground</h1>The immediate action is for flight<br>attendants to notify the Pilot-in-Command<br>and identify the item as dangerous goods.<br>Dangerous items are only allowed as inside the cargo compartment<br>**Notoc- a document containing information about number of passengers, quantity of cargo loaded, and information about dangerous goods.<h1>On Board</h1>-it has to be taken away from the<br>passenger and stowed in the<br>empty waste container of the<br>lavatory as far as possible from<br>the people."
+        },
+        {
+            "desc": "<br><h1>Deportee</h1>-a person who had legally admitted<br>to a country by its authorities or<br>who had entered a country illegally<br>AND who at some later time is<br>formally ordered by the authorities<br>to leave the country<br>***Deportees and Inadmissible<br>Passengers board the plane first and<br>are the last to deplane.<h1>Inadmissible Passengers</h1>a person who is or will be refused<br>admission to a country by its<br>authorities"
+        },
+        {
+            "desc": "<br><h1>Types of Deportee</h1>Type A: Persons who<br>had legally been admitted into a country or who had entered a country illegally, and who is required later by authorities<br>to be removed from the country.<br>Type B: Persons who is either under arrest or convicted by courts of law<br>to be transported to another country, and will be handled as deportee<br>with the condition that he/she must always be escorted.<br>Type C: Persons who is in the custody of authorities and considered as<br>‘Dangerous Prisoner.’ This type of deportee must always be transported<br>with escorts."
+        },
+        {
+            "desc": "<br><h1>Unruly Passenger Disruptive Passenger</h1>-a passenger on a commercial aircraft whose behavior poses<br>risk to the safety & security of crew and other passengers.<br>-passengers who fail to respect the rules of conduct on board<br>or to follow the instructions of crew members, thereby<br>disturbing good order and discipline on board and<br>compromising safety. (IATA, 2015)<br>-they are ones who exhibit unusual behavior<br>-they are ones who may be hazardous to other passengers<br>-their disruptive behavior posts threat to the flight"
+        },
+        {
+            "desc": "<br><h1>Unruly Passenger Disruptive Passenger</h1><h1>Procedure on Ground</h1>*Detect passengers who fall in the<br>category<br>*Try to negotiate or calm down the<br>passenger<br>*Inform station manager<br>*Assessment to be made by station manager<br>*Deny boarding at ck-in counter or<br>gate<h1>Procedure on Board</h1>*It is the responsibility of cabin crew<br>to handle unruly passengers.<br>*Levels of Control:<br>-verbal warning<br>-written warning<br>-with cooperation of crew team,<br>handcuffs or restraint device shall<br>be put on the passenger."
+        }
+    ],
+    "1-12": [
+        {
+            "img": "../../assets/imgs/1-12.png"
+        },
+        {
+            "desc": "<h1>Checking of Safety & Emergency Equipment</h1><li>Done before flight</li><br><li>Done when there is change of crew</li><br><li>Done when the aircraft has been temporarily left unattended</li><br><li>Done by flight crew who has been assigned in each zone<br>eg. Infant life vests are checked and distributed by flight attendant who has<br>been assigned the duty.</li><br><li>A Pre and Post-Flight Security Checks are done as part of it</li>"
+        },
+        {
+            "desc": "<br><h1>Checking of Safety & Emergency Equipment</h1><li>Done by using CHECKLIST  as reference</li><br><li>Flight crew with given position to check given<br>Zone<li></li><br><li>Location</li><br><li>Quantity</li><br><li>Condition</li></li><br><li>Things to be checked with given equipment:<br>***It is to be noted that Equipment to be brought<br> for evacuation include flashlight, ELT, <br>first aid kit, and megaphone</li>"
+        },
+        {
+            "desc": "<br><h1>Reporting system</h1><h1>1.Mandatory Incident Reporting Systems</h1>li>This type of reporting requires specific<br>airline personnel to report specific<br>happening or incident</li><br><li>Based on checklist</li><br><li>“When in doubt, report”</li><br><li>Tend to be more technical and informative in nature</li><h1>2.Voluntary Incident Reporting Systems</h1><li>Airline personnel (pilots, controllers,<br>cabin crew, etc.) are invited to report<br>hazards, discrepancies or deficiencies<br>that they were involved or observed<br></li><br><li>‘Third party’ needed to perform<br>report management function</li><br><li>Tends to be more successful because<br>of its confidentiality</li><br><li>Sees the importance of ‘human<br>factors’ rather than technical aspects.</li>"
+        },
+        {
+            "desc": "<br><h1>Safety Program Elements</h1><li>Management Leadership & Commitment</li><br><li>Employee Involvement</li><br><li>Responsibility &Accountability</li><br><li>Trends Analysis & Risk Management</li><br><li>Accident Investigation & Auditing</li><br><li>Hazard Prevention & Control Programs</li><br><li>Communication</li><br><li>Training</li>"
+        },
+        {
+            "desc": "<br><h1>Approaches to Safety</h1>Reactive Approach- analyzing & addressing Hazards after they<br>have caused accidents & injuriesProactive Approach- requires that hazards & hazardous<be>conditions be identified before they cause accidents &<be>injuries."
+        },
+        {
+            "desc": "<br><h1>Audits</h1>*audits…<br>*have greater scope than inspection<br>*are designed to evaluate program  &<br>manage hazardous issues that have taken<br> place<br>*successful safety programs usually include safety audits<br>*reveal effectiveness of a safety program"
+        },
+        {
+            "desc": "<br><h1>Audit VS. Inspection</h1>*the word audit is used interchangeably with the word inspection<br>but audits are usually more comprehensive than inspection<br>Inspections are most of the time used to identify work-related hazards"
+        },
+        {
+            "desc": "<br><h1>The Types of Audits</h1><li>Comprehensive audits><br>(annual organizational audits) </li><br><li>Self audits><br>(departmental audits) </li><br><li>Status audits><br><li>(procedural audits) </li><br>"
+        },
+        {
+            "desc": "<br><h1>Safety Programs</h1>*Hazard Prevention & Control Programs<br>(as to satisfy regulatory requirements of<br>FAA, OSHA, & Environmental Agencies)<br>Examples:<br>Internal Evaluation Program (IEP)<br>Safety Management System (SMS)<br>"
+        },
+        {
+            "desc": "<br><h1>Internal Evaluation Program (IEP)</h1>Basic elements of an IEP includes<br>-independence<br>-defined responsibility<br>-continuous process<br>-specified schedules<br>-corrective action plans <br>-records<br>"
+        }
+    ]
+}

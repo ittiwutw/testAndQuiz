@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Words are what matter most in a person’s speech and his or her ability to communicate.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no2",
+            "question": "2.The three components of impressive personality include a person’s language skill, physical skill, and physical appearance.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.The two parts of a language include the verbal and non-verbal communication.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4.A balanced and upright body is an example of a positive posture.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.A person’s arms have to be in one position to show confirmation during a conversation.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6.It is necessary for a person to study different cultures non-verbal communication such as hand signs and hand movements.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no7",
+            "question": "7.A firm handshake is an example of a universal greeting.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.Body language includes facial expression, body gestures, eye movements, and use of space.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

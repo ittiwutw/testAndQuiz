@@ -1,0 +1,528 @@
+{
+    "pretest": [
+        {
+            "model": "no1",
+            "question": "1. Why is it important to know and understand skin tone?",
+            "choice": [
+                {
+                    "a": "a.It is for the individual to match hairdo.",
+                    "b": "b.It is important for the selection of foundation color.",
+                    "c": "c.It is important for medical issues.",
+                    "d": "d.It is not at all important."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no2",
+            "question": "2.What is the most important tool for makeup?",
+            "choice": [
+                {
+                    "a": "a.Brush",
+                    "b": "b.Powder",
+                    "c": "c.Foundation",
+                    "d": "d.Lipstick"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no3",
+            "question": "3. What is shimmer powder used for?",
+            "choice": [
+                {
+                    "a": "a.It is to make your face brighter.",
+                    "b": "b.It is to cover the scars and wrinkles.",
+                    "c": "c.It is to free your skin from dust.",
+                    "d": "d.It is to stabilize the skin tone."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4. How many types of knot are there for tying necktie?",
+            "choice": [
+                {
+                    "a": "2",
+                    "b": "3",
+                    "c": "4",
+                    "d": "5"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no5",
+            "question": "5. Which of the following are considered warm colors?",
+            "choice": [
+                {
+                    "a": "a.Yellow, blue, and purple",
+                    "b": "b.Orange, yellow, and purple",
+                    "c": "c.Green, yellow, and purple",
+                    "d": "d.Blue, green, and purple"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6. What is the meaning of business casual attire?",
+            "choice": [
+                {
+                    "a": "a.A business outfit",
+                    "b": "b.A less formal attire, professional enough to be office appropriate",
+                    "c": "c.A formal attire, professional enough to be office appropriate",
+                    "d": "d.A business attire used for casual occasion"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no7",
+            "question": "7. Which shade of concealer best hides dark circles under a person’s eyes?",
+            "choice": [
+                {
+                    "a": "a.A concealer having the same shade as his/her skin",
+                    "b": "b.A concealer having one shade lighter than the person’s skin",
+                    "c": "c.A multi-purpose concealer which will conceal on all types of face",
+                    "d": "d.A concealer having one shade darker than the person’s skin"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no8",
+            "question": "8.What colors should not be worn on the day of job interview?",
+            "choice": [
+                {
+                    "a": "a.Black and white",
+                    "b": "b.White and neon colors",
+                    "c": "c.Pastel colors",
+                    "d": "d.Blue and navy blue"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no9",
+            "question": "9. What is the proper posture?",
+            "choice": [
+                {
+                    "a": "a.Sitting with crossed legs",
+                    "b": "b.Sitting with feet on the floor and straight back",
+                    "c": "c.Sitting with feet on the floor with leaning back",
+                    "d": "d.Sitting with eyes looking at objects with precaution"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no10",
+            "question": "10.Which of the following is a proper gesture?",
+            "choice": [
+                {
+                    "a": "a.Looking at the opposite party with eye contact",
+                    "b": "b.Folding of arms",
+                    "c": "c.Keeping hands to yourself",
+                    "d": "d.Talking with hand gestures"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no11",
+            "question": "11.What is a lip liner used for?",
+            "choice": [
+                {
+                    "a": "a.It is a lip pencil used to fill in uneven areas on the outer edges of the lips.",
+                    "b": "b.It is a lipstick which is used to make small lines around the lips.",
+                    "c": "c.It is a cosmetic which is used to nourish the lips.",
+                    "d": "d.It is a lip pencil used to draw the desired shape. "
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no12",
+            "question": "12. If inside the interview room, the interviewer asks you a question that you don’t know the answer, what is the most appropriate way to deal with it?",
+            "choice": [
+                {
+                    "a": "a.Be honest, admit that you don’t know the answer and say that if you get a chance, you will find out about the issue.",
+                    "b": "b.Be honest, admit that you don’t know the answer but make your best guess regarding the issue.",
+                    "c": "c.Think of the best possible answer that is related to the question and answer.",
+                    "d": "d.Ask permission to change the question ."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no13",
+            "question": "13. Which of the following is the technique to make yourself look thinner?",
+            "choice": [
+                {
+                    "a": "a.Choosing clothes one size bigger.",
+                    "b": "b.Choosing clothes which emphasize your chest and hips",
+                    "c": "c.Choosing clothes with big patterns to make yourself look thinner",
+                    "d": ".Choosing clothes coming from department stores with standard sizes "
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no14",
+            "question": "14. What is the purpose of putting on foundation?",
+            "choice": [
+                {
+                    "a": "a.It is used as base color for your body.",
+                    "b": "b.It is a kind of moisturizer used to nourish the skin before putting on makeup.",
+                    "c": "c.It is a skin-colored makeup applied to the face to create an even, uniform color to cover flaws.",
+                    "d": "d.It is a skin-colored makeup intended to change the texture of the skin."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no15",
+            "question": "15. Which of the following is the best option in choosing an outfit for a job interview?",
+            "choice": [
+                {
+                    "a": "a.Buy an expensive and branded outfit.",
+                    "b": "b.Buy an outfit according to modern fashion.",
+                    "c": "c.Analyze your body shape and find the outfit style that matches you most.",
+                    "d": "d.Get an outfit made by the tailor"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no16",
+            "question": "16. What kind of shoes should you wear for a job interview?",
+            "choice": [
+                {
+                    "a": "a.Fashionable high heels",
+                    "b": "b.Shoes with high heels to make your body slim with good posture.",
+                    "c": "c.Polished, dark, solid-colored shoes with approximately 2.5-inch heels",
+                    "d": "d.The shoes that provide the most comfort to your feet to give you confidence"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no17",
+            "question": "17. Which of the following is true about job interview preparation?",
+            "choice": [
+                {
+                    "a": "a.The interviewee should enroll in a pre-job interview tutorial class.",
+                    "b": "b.The interviewee should get at least 6-8 hours of sleep the night prior to the interview.",
+                    "c": "c.The interviewee should drink plenty of water before entering the interview room.",
+                    "d": "d.The interviewee should put on as much as perfume and makeup on the day of the interview in order to impress the interviewers."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no18",
+            "question": "18. Which of the following is considered a bad example of an outfit?",
+            "choice": [
+                {
+                    "a": "a.Shoes with laces",
+                    "b": "b.A collarless shirt with short sleeves.",
+                    "c": "c.A neck-tie with repeating patterns",
+                    "d": "d.Socks with mid-calf length"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no19",
+            "question": "19. What is the thing that the interviewer should bring to the interview room apart from men’s briefcase or lady’s handbag?",
+            "choice": [
+                {
+                    "a": "a.The interviewer should not bring anything.",
+                    "b": "b.Mobile phone",
+                    "c": "c.Several copies of the resume",
+                    "d": "d.Bottled water"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no20",
+            "question": "20.Which of the following accessory/ries should the interviewer have with him as he enters the interview cite? ",
+            "choice": [
+                {
+                    "a": "a.Pen, calculator, and personal documents",
+                    "b": "b.A pen only",
+                    "c": "c.A handbag only",
+                    "d": "d.Personal documents only"
+                }
+            ],
+            "ans": "b"
+        }
+    ],
+"posttest": [
+        {
+            "model": "no1",
+            "question": "1. Liquid foundation is one of the most popular types of foundation.  What is the main advantage of a liquid foundation?",
+            "choice": [
+                {
+                    "a": "a.It is available everywhere with cheap price.",
+                    "b": "b.It provides the heaviest coverage to the face.",
+                    "c": "c.It can be used with all skin types.",
+                    "d": "d.It can be removed easily and leaves little stain."
+                }
+             ],    
+            "ans": "b"
+           
+         },
+         {
+            "model": "no2",
+            "question": "2. What is the main drawback of ‘matte lipstick?’",
+            "choice": [
+                {
+                    "a": "a.It becomes dry and usually needs to be used with gloss.",
+                    "b": "b.It does not last long like other types of lipstick.",
+                    "c": "c.It lacks variety of colors.",
+                    "d": "d.It is not popular among users because of its price."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no3",
+            "question": "3. As an interviewee sits inside the interview room, what should the interviewee do with his/her hands? ",
+            "choice": [
+                {
+                    "a": "a.Always keep both hands on the lap",
+                    "b": "b.Cross the arms in order to keep him/herself warm",
+                    "c": "c.Keep the hands on the sides",
+                    "d": "d.Hold each hand firmly to indicate confirmation"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4. Which of the following is a good example of a positive greeting?",
+            "choice": [
+                {
+                    "a": "a.Greet the opposite party with local language",
+                    "b": "b.Greet the opposite party with a firm handshake with a verbal greeting in English",
+                    "c": "c.Greet the opposite party with a nod",
+                    "d": "d.Greet the opposite party with a wave and a verbal greeting in English"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no5",
+            "question": "5. Which is the best place to test a foundation?",
+            "choice": [
+                {
+                    "a": "a.Directly on the face",
+                    "b": "b.On the person’s backhand",
+                    "c": "c.On the person’s palm",
+                    "d": "d.On the person’s neck"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6. What is the correct way to choose a foundation?",
+            "choice": [
+                {
+                    "a": "a.A person should choose a natural light foundation. ",
+                    "b": "b.A person should have another makeup on while choosing a new foundation.",
+                    "c": "c.A person should make use of a mirror when choosing a foundation",
+                    "d": "d.A person should rely on the help of the store’s specialist in order to choose the correct foundation."
+                }
+            ],
+            "ans": "a"
+        },
+    
+        {
+            "model": "no7",
+            "question": "7. What colors should be worn on the day of job interview?",
+            "choice": [
+                {
+                    "a": "a.Colors that match the individual’s personality",
+                    "b": "b.Colors that belong to the interviewer’s company",
+                    "c": "c.Soft colors",
+                    "d": "d.Warm colors"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no8",
+            "question": "8. What is the accessory needed to be worn on the day of job interview?",
+            "choice": [
+                {
+                    "a": "a.wrist watch",
+                    "b": "b.bangles",
+                    "c": "c.clutch",
+                    "d": "d.bracelet"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no9",
+            "question": "9. What is the recommended hair style for job interview?",
+            "choice": [
+                {
+                    "a": "a.A person can look professional by keeping the hair up and out of the face.",
+                    "b": "b.A person can keep his or her confidence by going to the interview with usual hair style.",
+                    "c": "c.A person can put styling gel and heavy spray in order to keep the hair from falling.",
+                    "d": "d.A person can make a fashionable hairdo to look in trend."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no10",
+            "question": "10. What is the best way to prepare for a job interview?",
+            "choice": [
+                {
+                    "a": "a.The person must practice by speaking in front of the mirror the frequently asked questions.",
+                    "b": "b.The person must consult experts for information.",
+                    "c": "c.The person must participate in a tutorial class.",
+                    "d": "d.The person must study and memorize details about the interviewers’ company."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no11",
+            "question": "11. In order to keep makeup last for the whole day, which kind of powder must you use?",
+            "choice": [
+                {
+                    "a": "a.Loose powder",
+                    "b": "b.Pressed powder",
+                    "c": "c.Two way cake powder",
+                    "d": "d.Setting powder"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no12",
+            "question": "12. Which of the following is the technique to make yourself look taller?",
+            "choice": [
+                {
+                    "a": "a.By wearing an outfit with one color ",
+                    "b": "b.By wearing an outfit with multi-colors",
+                    "c": "c.By wearing shoes with big heels",
+                    "d": "d.By wearing big outfits"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no13",
+            "question": "13. Which of the following is considered a ‘must not do’ in the interview room?",
+            "choice": [
+                {
+                    "a": "a.Say thank you every time you are finished with your answer.",
+                    "b": "b.Ask the interviewers to repeat the questions twice to make sure you understand well",
+                    "c": "c.Write down notes on your palms in order to keep the answers near to you.",
+                    "d": "d.Say sorry when you miss hearing something or did not hear the interviewer."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no14",
+            "question": "14. Which is not a way to help improve a person’s posture?",
+            "choice": [
+                {
+                    "a": "a.Take standing breaks when he/she has to sit for a long time.",
+                    "b": "b.Sleep flat on his/her back",
+                    "c": "c.Rely on high heels to help when walking",
+                    "d": "d.Make adjustment on the chair she/he has to work in "
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no15",
+            "question": "15. Which is/are not a way/ways to make a person look younger with makeup?",
+            "choice": [
+                {
+                    "a": "a.Putting on lighter shade of lipsticks",
+                    "b": "b.Covering up eye circles by putting concealer and adding brighter shades of eye shadow to the eyes",
+                    "c": "c.Shaping eyebrows with thicker volume",
+                    "d": "d.Putting highlights and shimmer on the cheeks"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no16",
+            "question": "16. In which occasion is a lip gloss suitable?",
+            "choice": [
+                {
+                    "a": "a.When attending a party at night",
+                    "b": "b.When wearing casual outfit on an easy going day",
+                    "c": "c.When attending an interview ",
+                    "d": "d.When a person is about to attend an appointment with a client"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no17",
+            "question": "17. For basic knowledge regarding the skin, what is the meaning of melanin?",
+            "choice": [
+                {
+                    "a": "a.It is the substance that makes a person improves his sleep at night.",
+                    "b": "b.It is the pigment found in skill cells.",
+                    "c": "c.It is the color of the cells in a person’s skin.",
+                    "d": "d.It is the body’s protective layer of the skin."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no18",
+            "question": "18. What is a team assessment?",
+            "choice": [
+                {
+                    "a": "a.It is an exercise used to evaluate a team’s strengths and weaknesses",
+                    "b": "b.It is a tool used to calculate the team’s ability to perform",
+                    "c": "c.It is a kind of training done after job recruitment",
+                    "d": "d.It is an indicator of the individual’s and team’s performance"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no19",
+            "question": "19. What is the meaning of ‘arm reach test’ in an airline examination?",
+            "choice": [
+                {
+                    "a": "a.The airline measures your arm span for work purpose",
+                    "b": "b.The airline tests the recruit’s ability to reach the minimum limit of the given airline.",
+                    "c": "c.It is the measurement of the person’s arm length.",
+                    "d": "d.It is the measurement of the person’s flexibility."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no20",
+            "question": "20. Which of the following gives additional marks for a person participating in an airline job interview?",
+            "choice": [
+                {
+                    "a": "a.The accessories that he/she wears",
+                    "b": "b.The person’s educational background",
+                    "c": "c.The person’s foreign language proficiency",
+                    "d": "d.The person’s physical ability"
+                }
+            ],
+            "ans": "c"
+        }
+    ]
+}

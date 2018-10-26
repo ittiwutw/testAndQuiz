@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Personality is seen in a person’s appearance and through his or her ability to communicate.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.External personality includes a person’s faith, creativity, and confidence.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.Superego is a person’s adult and parent personalities combined.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.An introvert is shy, reserved, and quiet.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.Recruiters search for candidates who are perfectionists and those who have fewest flaws as",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6.What matters most is how a person’s personality compliments the workplace.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no7",
+            "question": "7.Matching attire with different occasions and fixing the right hairdo are some of the examples that help shape up personality.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.Personality is inborn and stays with the person until he or she is matured.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        }
+    ]
+}

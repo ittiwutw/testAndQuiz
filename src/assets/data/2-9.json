@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.General knowledge is considered the most important aspect for a job interview.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.Not only that the interviewee must know personal content by heart, he or she must also have knowledge about the interviewer’s company.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no3",
+            "question": "3.The resume is a reflection of the interviewee.The interviewee therefore should proof-read it until it is perfect.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4.Long and complex speeches are recommended since it makes the interviewee sound professional and sophisticated.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no5",
+            "question": "5.The aim of team assessment is to show the fullest of your ability.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6.It is best to find knowledge from others around the area of the interviewing sight.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no7",
+            "question": "7.It is recommended to have a tote or handbag where documents can be stored.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no8",
+            "question": "8.It is recommended to show sign of enthusiasm during group work.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

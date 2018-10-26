@@ -1,0 +1,59 @@
+<!--
+  Generated template for the PreTestPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{type}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <h1 text-center>{{subject}}</h1>
+
+  <ion-card *ngFor="let info of testData;let i=index">
+    <ion-card-header text-wrap>
+      {{info.question}}
+    </ion-card-header>
+    <ion-card-content>
+      <ion-list radio-group [(ngModel)]="testData[i].choose">
+        <ion-item *ngFor="let choice of info.choice">
+          <ion-label text-wrap>{{choice.a}}
+          </ion-label>
+          <ion-radio value="a" checked></ion-radio>
+        </ion-item>
+        <ion-item *ngFor="let choice of info.choice">
+          <ion-label text-wrap>{{choice.b}}
+          </ion-label>
+          <ion-radio value="b" checked></ion-radio>
+        </ion-item>
+        <ion-item *ngFor="let choice of info.choice">
+          <ion-label text-wrap>{{choice.c}}
+          </ion-label>
+          <ion-radio value="c" checked></ion-radio>
+        </ion-item>
+        <ion-item *ngFor="let choice of info.choice">
+          <ion-label text-wrap>{{choice.d}}
+          </ion-label>
+          <ion-radio value="d" checked></ion-radio>
+        </ion-item>
+        
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+  <br>
+
+  <p>Input your name for submission</p>
+  <ion-item>
+    <ion-label color="primary">Name</ion-label>
+    <ion-input placeholder="First name and Last name" [(ngModel)]="testerName"></ion-input>
+  </ion-item>
+  <button ion-button block (click)="submit()" *ngIf="testerName">
+    submit
+  </button>
+</ion-content>

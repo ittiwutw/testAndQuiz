@@ -1,0 +1,92 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Access control is considered as major preventive action to manage aviation threat",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.Catering center is not considered means of entrants to the airport for terrorists",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.Scanning of fingers is the only method to screen passengers and aviation personnel.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.Flight attendants have to perform both the pre and post flights security checks ",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.ID card is the most important document which helps identify an aviation personnel",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no6",
+            "question": "6.Duplication of the ID card is the correct way to keep or maintain the ID card by aviation personnel.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no7",
+            "question": "7.Survellance is used as supplementary method to prevent aviation threat",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no8",
+            "question": "8.The things that security staff have to scan include objects to be taken into the airport, vehicles, and passengers.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        }
+    ]
+}

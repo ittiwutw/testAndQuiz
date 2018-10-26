@@ -1,0 +1,79 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.The following are factors of human performance by grouping.",
+            "choice": [
+                {
+                    "a": "a.Hardware, nature of task, and the environment",
+                    "b": "b.Software, hardware, and the environment",
+                    "c": "c.Ergonomics, hardware, and physical factors"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.Which is not an example of error?",
+            "choice": [
+                {
+                    "a": "a.A task performed out of sequence",
+                    "b": "b.A task meeting the standard requirement of the authority",
+                    "c": "c.A task performed late"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.What are the 2 strategies of human error management?",
+            "choice": [
+                {
+                    "a": "a.Collaborative and Administrative strategies",
+                    "b": "b.Engineering and administrative strategies",
+                    "c": "c.Preventive and proactive strategies"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.Which of the following is considered a method of human error management?",
+            "choice": [
+                {
+                    "a": "a.Analysis of organizational factors",
+                    "b": "b.Re-engineering",
+                    "c": "c.Automation"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no5",
+            "question": "5.What is the consequence of inaccurate performance?",
+            "choice": [
+                {
+                    "a": "a.Error",
+                    "b": "b.Aviation statistics",
+                    "c": "c.Aviation threat"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no6",
+            "question": "6.What is human factors?",
+            "choice": [
+                {
+                    "a": "a.It forecasts the mismatch in aviation operation",
+                    "b": "b.It concentrates on the capabilities and limitation of humans",
+                    "c": "c.It calculates the level of risk visible in aviation operation"
+                }
+            ],
+            "ans": "b"
+        }
+
+
+    ]
+
+}

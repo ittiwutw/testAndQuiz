@@ -1,0 +1,528 @@
+{
+    "pretest": [
+        {
+            "model": "no1",
+            "question": "1. During flight, a damaged dangerous goods package is found in the cabin. According to the Emergency Response Guidance, 100% oxygen supply is necessary. How could the flight attendants protect themselves against possible dangerous vapor in the cabin?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that the flight attendant makes use of all the available ‘protective breathing equipment’ in order to protect themselves from the dangerous vapor in the cabin",
+                    "b": "b.It is necessary that the flight attendant prepares to evacuate the passengers to the nearest available sector in order to stay away from the dangerous vapor.",
+                    "c": "c.It is necessary that the flight attendant prepares to depressurize the cabin with coordination from the cockpit crew.",
+                    "d": "d.It is necessary that the flight attendant puts on face mask and stay away from the affected area."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2. If hijacking occurs during flight, what are the correct courses of action?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that the flight attendants communicate directly with the hijacker and prepare for emergency landing.",
+                    "b": "b.It is necessary that flight attendants keep passengers in their seats with seat belts fastened in order to avoid interference, and have one flight attendant assigned to communicate with the hijacker.",
+                    "c": "c.It is necessary for flight attendants to get the involvement and coordination from the captain in order to communicate with the hijacker.",
+                    "d": "d.It is necessary for flight attendants to make use of restraint devices in order to lock up the hijacker."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3. During decompression, what command is to be given by flight attendants to passengers?",
+            "choice": [
+                {
+                    "a": "a.Pull the mask down for your own use",
+                    "b": "b.Pull the mask down for your own use.",
+                    "c": "c.Pull the mask for yourself and the person next to you.",
+                    "d": "d.Pull the mask down, cover your nose and mouth and breathe normally."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4. While fueling is done with passengers on board and that there is presence of vapor in the cabin, what is the course of action of flight attendants?",
+            "choice": [
+                {
+                    "a": "a.Flight attendants have to contact ground engineer to evaluate the situation and prepare for evacuation.",
+                    "b": "b.Flight attendants have to make use of the protective breathing device in order to protect themselves from the vapor.",
+                    "c": "c.Flight attendants have to immediately inform the cockpit crew and station personnel for further actions.",
+                    "d": "d.Flight attendants have to relocate passengers to the terminal in order to safeguard them from harm."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no5",
+            "question": "5. In the case that decompression occurs and that the oxygen masks fail to drop, what is the action which needs to be done by the flight attendants in order to activate the oxygen masks of the Boeing 787?",
+            "choice": [
+                {
+                    "a": "a.It is not possible to manually activate the oxygen masks and the flight attendants will have to start using portable oxygen bottles.",
+                    "b": "b.Flight attendants have to make use of the protective breathing device in order to protect themselves from the vapor.",
+                    "c": "c.Flight attendants will have to push one of the circular ends on the passenger service unit latch buttons which extends the other end and pull the latch button in order to release the compartment door.",
+                    "d": "d.Flight attendants will have to open the passenger service unit by using sharp object to release the cover in order for oxygen masks to fall down."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no6",
+            "question": "6. After ditching, what action is to be done in order to handle passengers with hypothermia?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that flight attendants make use of medical aid and rewarm the bodies of the passengers in order to prevent their bodies from losing more body heat.",
+                    "b": "b.It is necessary that flight attendants make use of available natural resources in the area to rewarm the bodies of the passengers.",
+                    "c": "c.It is necessary that flight attendants offer food and hot water to the passengers in order to stabilize their body temperature",
+                    "d": "d.It is necessary that flight attendants keep away from the passengers in order to allow for natural remedy."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no7",
+            "question": "7. In the event of prepared ditching, what is to be done by flight attendants?",
+            "choice": [
+                {
+                    "a": "a.Flight attendants will have to brief passengers about what ditching is and its’ consequences",
+                    "b": "b.Flight attendants will have to perform a full life vest demonstration in order to show the passengers life vest operation.",
+                    "c": "c.Flight attendants will have to coordinate with the cockpit and synchronize the time for ditching.",
+                    "d": "d.Flight attendants will have to secure the galleys, make a final safety check, and demonstrate a ‘brace’ position to the passengers."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no8",
+            "question": "8. During emergency situation, what is the procedure in opening the door?",
+            "choice": [
+                {
+                    "a": "a.The door can be opened in automatic mode by the flight attendant who is guarding the door.",
+                    "b": "b.The flight attendant first grasp the frame assist handle while checking the outside condition and lift the handle ensuring that the mode is in armed position.  As the control handle is fully up, he pushes the door until it is fully opened.",
+                    "c": "c.The flight attendant first cross checks with the opposite door in order to make a point and call in order to open the door in the disarmed position.",
+                    "d": "d.The flight attendant first grasp the handle in order to pull and open the door ensuring that the door is in armed position.  As the control handle is fully up, he pushes the door until it is fully opened."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no9",
+            "question": "9. In time of evacuation, if one of the chambers of the slide is damaged, what is the action the flight attendant needs to perform?",
+            "choice": [
+                {
+                    "a": "a.The flight attendant can continue using the slide without having to redirect passengers",
+                    "b": "b.The flight attendant will have to redirect the passengers to other doors in order to limit the weight being put onto the only chamber of the slide.",
+                    "c": "c.The flight attendant will have to use megaphone to redirect passengers to other doors as the current door will have to be closed",
+                    "d": "d.The flight attendant will have to use manual inflation handle in order to reactivate the only slide which is usable so that all the passengers can evacuate."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no10",
+            "question": "10.What are the three names of ‘fire in hidden areas?’",
+            "choice": [
+                {
+                    "a": "a.Panel Area, Drop Ceiling Area, Longitudinal Area",
+                    "b": "b.Panel Area, Crown Area, Longitudinal Area",
+                    "c": "c.Crown Area, Dado Area, Triangle Area",
+                    "d": "d.Hexagonal Area, Triangle Area, Circular Area"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no11",
+            "question": "11. When fire occurs in the galley, what is the first action that flight attendants have to take?",
+            "choice": [
+                {
+                    "a": "a.Flight attendants will have to form a fire fighting team, searches for fire-fighting equipment, and start fighting the fire.",
+                    "b": "b.Flight attendants have to immediately relocate objects that might catch fire at the same time coordinate with the cockpit.",
+                    "c": "c.Flight attendants have to immediately remove electrical power from the galley by placing the galley emergency power to OFF.",
+                    "d": "d.Flight attendants have to immediately remove all electrical equipment away from the galley and start fighting the fire."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no12",
+            "question": "12.After emergency landing and evacuation, what is the immediate action which the flight attendants have to take while leading the passengers?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that flight attendants prepare food and water for survival of themselves and passengers.",
+                    "b": "b.It is necessary that flight attendants prepare food and find shelter for survival of themselves and passengers.",
+                    "c": "c.It is necessary that flight attendants appoint a person to become the leader of the group in order to lead the survival of the group.",
+                    "d": "c.It is necessary that flight attendants appoint a person to become the leader of the group in order to lead the survival of the group."
+                }
+            ],
+            "ans": "d"
+        },
+        {
+            "model": "no13",
+            "question": "13. In case of ditching and that there is no raft, what is the action to be taken and commanded to the passengers by the flight attendants?",
+            "choice": [
+                {
+                    "a": "a.It is necessary to make visual signal so that the rescue team will be able to visualize their presence.",
+                    "b": "b.It is necessary that all the survivors remain in the water and stay still as way to conserve body heat and wait for the rescue team to come.",
+                    "c": "c.It is necessary that all the survivors swim to the nearest shore and wait for the rescue team.",
+                    "d": "d.It is necessary that flight attendants through use of the ELT wait for the signal of the rescue team."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no14",
+            "question": "14.Why is it necessary that flight attendants learn the different hazard labels for dangerous goods?",
+            "choice": [
+                {
+                    "a": "a.a.It is necessary for flight attendants to be aware of the risk inherent in the contents of the dangerous goods.",
+                    "b": "b.It is necessary for flight attendants to be able to handle the particular dangerous good.",
+                    "c": "c.It is necessary for flight attendants to be able to classify and give information to the EOD unit.",
+                    "d": "d.It is necessary for flight attendants to write report regarding the dangerous good."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no15",
+            "question": "15. Why is it important for the flight attendants to observe carry-on baggage and other carry-on items during boarding?",
+            "choice": [
+                {
+                    "a": "a.Flight attendants observe carry-on baggage in order to off-load oversized baggage for weight balance of the plane.",
+                    "b": "b.Flight attendants observe carry-on baggage in order to coordinate the work of the load control department.",
+                    "c": "c.Flight attendants observe carry-on baggage in order to spot danger that might happen on board.",
+                    "d": "d.Flight attendants observe carry-on baggage in order to protect the welfare of the airline as there are regulations which passengers have to follow."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no16",
+            "question": "16. What is the procedure in the case when during boarding, a package with dangerous goods belonging to a passenger is found?",
+            "choice": [
+                {
+                    "a": "a.The immediate action is for flight attendants to contact ground personnel for further actions.",
+                    "b": "b.The immediate action is for flight attendants to notify the Pilot-in-Command and identify the item as dangerous goods.  Dangerous items are only allowed as inside the cargo compartment.",
+                    "c": "c.The immediate action is for flight attendants to open the ‘dangerous goods manual’ and classify accordingly.",
+                    "d": "d.The immediate action is for flight attendants to refuse the passenger from entering the plane and contact both the ground personnel and EOD."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no17",
+            "question": "17. With the presence of unruly passenger on board, what information are to be recorded by flight attendants?",
+            "choice": [
+                {
+                    "a": "a.The unruly passenger’s seat number and passport number are to be recorded.",
+                    "b": "b.The unruly passenger’s courses of action and passport number are to be recorded.",
+                    "c": "c.The unruly passenger’s name, sex, age, passport number, physical appearance, and the things that were said and done.",
+                    "d": "d.The unruly passenger’s destination and passport number."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no18",
+            "question": "18.What does the abbreviation UPK stand for?",
+            "choice": [
+                {
+                    "a": "a.Universal Protective Kit ",
+                    "b": "b.Universal Precaution Kit",
+                    "c": "c.Uniform Protective Kit",
+                    "d": "d.Uniform Precaution Kit"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no19",
+            "question": "19. Who is responsible for checking the flight attendant’s resting compartment?",
+            "choice": [
+                {
+                    "a": "a.Air purser.",
+                    "b": "b.Ground engineer",
+                    "c": "c.Flight attendants responsible for the area as stated in the cabin checklist.",
+                    "d": "d.All flight attendants are responsible for the area."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no20",
+            "question": "20. During anticipated turbulence, what is flight attendant’s immediate action?",
+            "choice": [
+                {
+                    "a": "a.Flight attendants should make cabin walk-around.",
+                    "b": "b.Flight attendants must immediately sit down and take the nearest seat.",
+                    "c": "c.Flight attendants must clear all loose objects.",
+                    "d": "d.Flight ateendants must check cabin readiness."
+                }
+            ],
+            "ans": "b"
+        }
+    ],
+"posttest": [
+        {
+            "model": "no1",
+            "question": "1. During flight, a dangerous goods package is found, what is the procedure to be taken by flight attendants?",
+            "choice": [
+                {
+                    "a": "a.According to the dangerous goods regulations, it has to be taken away from the passenger and stowed in the cockpit.",
+                    "b": "b.According to the dangerous goods regulations, it has to be taken away from the passenger and stowed in the empty waste container of the lavatory as far as possible from the people.",
+                    "c": "c.According to the dangerous goods regulations, it has to be taken care by flight attendants who will store the dangerous goods in one of the lockers.",
+                    "d": "d.According to the dangerous goods regulations, it has to be taken away from the passenger and the cockpit will have to inform the nearest destination where emergency landing can be made."
+                }
+             ],    
+            "ans": "b"
+           
+         },
+         {
+            "model": "no2",
+            "question": "2. What is the meaning of ‘Type C Deportee?’",
+            "choice": [
+                {
+                    "a": "a.Type C Deportee is a person who has to be taken care of by flight attendants from the time he embarks and disembarks the plane.",
+                    "b": "b.Type C Deportee is a person who has illegally entered the country and been sent back by the authority of the country.",
+                    "c": "c.Type C Deportee is a person who has committed minor crime and is sent back to his originating country.",
+                    "d": "d.Type C Deporttee is a person who has committed illegal action and is escorted by the police authorities."
+                }
+            ],
+            "ans": "d"
+        },
+        {
+            "model": "no3",
+            "question": "3. What is the meaning of ‘sterile cockpit?’",
+            "choice": [
+                {
+                    "a": "a.It is the action which keeps the cockpit free from physical harm.",
+                    "b": "b.It is the period of time when cockpit is involved with checklist and other technical activities",
+                    "c": "c.It is the period of time to keep the cockpit free from distraction during critical phases of flight in order to maintain the level of safety for the flight.",
+                    "d": "d.It is the period of time to keep the cockpit informed with information regarding emergency and critical pieces of information."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no4",
+            "question": "4. In the event that fueling has to be done while passengers are on board, what instructions are to be given to the passengers by flight attendants?",
+            "choice": [
+                {
+                    "a": "   a.Flight attendants have to tell the passengers to put on their seat belts and wait for announcement to be made by the captain.",
+                    "b": "b.Flight attendants will have to tell passengers that it is possible to move around as the process is done on ground.",
+                    "c": "c.Flight attendants will have to tell passengers to study the safety pamphlet as they have to remain seated until fueling finishes.",
+                    "d": "d.Flight attendatns will have to tell passengers to release seat belt, remain seated, and do not smoke."
+                }
+            ],
+            "ans": "d"
+        },
+        {
+            "model": "no5",
+            "question": "5. Before evacuation, it is necessary to bring four necessary items.  What are the four items?",
+            "choice": [
+                {
+                    "a": "a.Medical kit, flashlight, life vest, and megaphone",
+                    "b": "b.Medical kit, flashlight, life vest, and protective breathing equipment",
+                    "c": "c.Medical kit, ELT, flashlight, life vest",
+                    "d": "d.First aid kit, ELT, flashlight, megaphone"
+                }
+            ],
+            "ans": "d"
+        },
+        {
+            "model": "no6",
+            "question": "6. What does ELT stand for?",
+            "choice": [
+                {
+                    "a": "a.Electronic Light Transmitter",
+                    "b": "b.Emergency Light Transmitter",
+                    "c": "c.Emergency Locator Transmitter",
+                    "d": "d.Electronic Locator Transmitter"
+                }
+            ],
+            "ans": "c"
+        },
+    
+        {
+            "model": "no7",
+            "question": "7.What command should be given by flight attendants to the passengers after emergency landing, in the case that evacuation is needed?",
+            "choice": [
+                {
+                    "a": "a.”Remain seated”",
+                    "b": "b.”Release seat belt and get out”",
+                    "c": "c.”Brace, Brace”",
+                    "d": "d”.Calm down, Head down”"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no8",
+            "question": "8. What is the procedure if fire is observed in the cabin during engine starting on taxiing?",
+            "choice": [
+                {
+                    "a": "a.The flight attendant has to call the air purser in order to inform that there is fire.",
+                    "b": "b.The flight attendant will have to walk to the air purser station in order to form a fire-fighting team.",
+                    "c": "c.The first flight attendant has to immediately use the nearest hand fire extinguisher to fight the fire while the second flight attendant informs the air purser and captain.  After fire-fighting, all will have to wait for further instructions given by the cockpit.",
+                    "d": "d.The flight attendants around the area will have to fight the fire. As the fire has been extinguished, information is to be reported to the air purser and captain."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no9",
+            "question": "9. Who among the flight attendants is responsible for distributing infant life vest before take-off and collecting after landing?",
+            "choice": [
+                {
+                    "a": "a.The flight attendant who is responsible for checking the infant life vests.",
+                    "b": "b.Any of the flight attendants can distribute and collect infant life vest.",
+                    "c": "c.The flight attendant in the zone where the infant is sitting is responsible for the distribution and collection of infant life vest.",
+                    "d": "d.The air purser will be the person delegating the task to one of the flight attendants to distribute and collect infant life vest."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no10",
+            "question": "10. In the case that there is no infant life vest available, what action can be done in order to advise the usage of life vest for the infant?",
+            "choice": [
+                {
+                    "a": "a.The purser will have to take out flight attendant’s spare life vest and use as infant life vest.",
+                    "b": "b.The adult life vest can be used in place of the infant life vest.",
+                    "c": "c.Passenger’s seat cushion as noted by IATA can be used as floatation aid and used by parent of infant.",
+                    "d": "d.One chamber of the adult life vest is to be inflated and that the middle strap is to be shortened."
+                }
+            ],
+            "ans": "d"
+        },
+        {
+            "model": "no11",
+            "question": "11. What is the action of the flight attendant in the case that after evacuation, one of the passengers’ body becomes dangerously overheated and having heatstroke?",
+            "choice": [
+                {
+                    "a": "a.The flight attendant will have to provide medicine for the passenger.",
+                    "b": "b.The flight attendant will have to lower the passengers’ body temperature as quickly as possible.",
+                    "c": "c.The flight attendant will have to ask the rest of the crowd to stay away from the person who is having heatstroke.",
+                    "d": "d.The flight attendant will have to call for a doctor or get advise from a medical unit."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no12",
+            "question": "12. How is urgency call made from the cockpit to the cabin?",
+            "choice": [
+                {
+                    "a": "a.It can be made directly by the captain through the service interphone.",
+                    "b": ".It can be made by the captain through flashing seat belt signs, PA system announcement, and service interphone.",
+                    "c": "c.It can be made by the captain through evacuation signal",
+                    "d": "d.It can be made by the captain to the air purser through face-to-face verbal communication"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no13",
+            "question": "13. During decompression and that the flight attendants are in their seats, where can the flight attendants use the oxygen masks?",
+            "choice": [
+                {
+                    "a": "a.The flight attendants will have to go to the next available flight attendant’s extra seat at the nearest station.",
+                    "b": "b.The flight attendants will have to get the nearest oxygen bottle.",
+                    "c": "c.The flight attendants will have to use any of the masks which have dropped and unused in the cabin.",
+                    "d": "d.The flight attendants will have to stay put until signal is given that oxygen mask is no longer needed."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no14",
+            "question": "14. What instruction is to be given to passengers seated at the emergency exit rows?",
+            "choice": [
+                {
+                    "a": "a.You are seated at the emergency exit row. Please study the safety pamphlet for your safety.",
+                    "b": "b.You are seated at the emergency exit row.  You may be asked by the flight attendants to assist during the time of emergency opening of the door.  If you are not happy to help, you will be relocated to a new seat.",
+                    "c": "c.You are seated at the emergency exit row.  You have to assist other passengers during time of emergency.",
+                    "d": "d.You are seated at the emergency exit row.  Please clear loose objects and study the safety guideline in the safety pamphlet."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no15",
+            "question": "15. What is the procedure in boarding deportee?",
+            "choice": [
+                {
+                    "a": "a.They are to be boarded first and deplaned after other passengers.",
+                    "b": "b.They are to be boarded last and deplaned after other passengers.",
+                    "c": "c.They are to be boarded first and deplaned before other passengers.",
+                    "d": "d.They are to be boarded last and deplaned before other passengers."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no16",
+            "question": "16. In terms of security, what is the correct procedure when there is passenger who fails to board the plane?",
+            "choice": [
+                {
+                    "a": "a.The air purser will have to inform the captain and wait for boarding to finish in order to close the door and pushback.",
+                    "b": "b.The ground personnel will have to provide new document and finish boarding in order to close the door and pushback.",
+                    "c": "c.The baggage of the passenger will have to be offloaded and inspected.  In the case that the passenger is in transit, inspection will have to be done around his assigned seat.  Information will have to constantly be updated to the captain regarding the inspection.",
+                    "d": "d.Constant information will have to be given to the flight attendants and captain in order to monitor the time the plane is still on ground."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no17",
+            "question": "17. What information do the flight attendants get from the NOTOC?",
+            "choice": [
+                {
+                    "a": "a.Number of passengers, quantity of cargo loaded, and information about dangerous goods.",
+                    "b": "b.Documentation related to the destination station.",
+                    "c": "c.Documentation related to the passengers and flight attendants on board.",
+                    "d": "d.Class or division, UN or ID number, packing group, quantity, loading position and ERG code."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no18",
+            "question": "18. What actions do flight attendants take as the air purser announces “safety check and at your stations?”",
+            "choice": [
+                {
+                    "a": "a.Flight attendants will have to use the checklist to recheck safety",
+                    "b": "b.Flight attendants will have to recheck cabin and passengers’ seat, lock all lavatory doors, and return to assigned seats.",
+                    "c": "c.Flight attendants will have to guard doors at the same time remain in their seats in order to get ready for takeoff and landing.",
+                    "d": "d.Flight attendants will have to guard doors and wait for the cabin ready signal."
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no19",
+            "question": "19. What is the correct procedure in dealing with electronic devices on board?",
+            "choice": [
+                {
+                    "a": "a.Electronic devices cannot be used after all doors close",
+                    "b": "b.Electronic devices can be used after the fasten seat belt sign goes off.",
+                    "c": "c.Electronic devices have to be screened by ground personnel prior to boarding in order to check for usability.",
+                    "d": "d.Electronic devices have to be turned off after all cabin doors have been closed except for devices with flight mode; they can be used under flight mode during cruise."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no20",
+            "question": "20.According to security check procedures, who is responsible for checking that no ground personnel remains on board before closing all doors?",
+            "choice": [
+                {
+                    "a": "a.The flight attendant who is assigned to be guarding the entry door.",
+                    "b": "b.The flight attendant who is working in the front area of the plane.",
+                    "c": "c.The air purser will be the one responsible for checking that no ground personnel remains on board.",
+                    "d": "d.The ground personnel will have to sign in and sign out as they enter or exit the door.  With such, the sign outs will indicate that all ground personnel have left the plane before all doors close."
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

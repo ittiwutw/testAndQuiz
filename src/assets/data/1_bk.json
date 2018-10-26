@@ -1,0 +1,69 @@
+{
+    "1-1": [
+        {
+            "desc": "<h1>Airworthiness</h1>Airworthiness  is the ability of an aircraft or other airborne equipment or system to operate without significant hazard to flight and cabin crew, ground crew, passengers, cargo or mail or to the general public and property over which such airborne systems are flown.<br>-is the measure of an aircraft’s suitability for safe flight"
+        },
+        {
+            "desc": "<br><h1>Certification of Airworthiness</h1>*An airline obtains its’ certificate of airworthiness from the state of aircraft registry national aviation authority<br>*It is a document which certifies its’ operation"
+        },
+        {
+            "desc": "<br><h1>FLYING SAFETY</h1>Safety: The state in which the possibility of harm to persons or of property damage is reduced to, and maintained at or below, an acceptable level through a continuing process of hazard identification and  safety risk management. ( SAFETY MANAGEMENT MANUAL, ICAO ,2 nd EDITION  2009 )"
+        },
+        {
+            "img": "../../assets/imgs/1-1.png"
+        },
+        {
+            "desc": "<br><h1>Aviation Security</h1>Aviation Security<br>‘safeguarding civil aviation acts of unlawful interference.’<br>(Chicago Convention, 2006)"
+        },
+        {
+            "desc": "<br><h1>Differences Between Safety & Security</h1><h1><u>Safety</u></h1>*protection against mishaps that are unintended (eg. accidents)<br>*protection against hazards<br>*measures that are adopted to safeguard property or people<h1><u>Security</u></h1>*the protection against deliberate accidents<br>*the state of being free from danger or threat"
+        },
+        {
+            "desc": "<br><h1>Safety Regulatory Organizations</h1>ICAO  = International Civil Aviation Organization<br>IATA = International Air Transport Association<br>FAA = Federal Aviation Administration (USA)<br>OSHA=Occupational Safety & Health Administration<br>EASA = European Aviation Safety Agency<br>CAAT = Civil Aviation Authority of Thailand"
+        },
+        {
+            "desc": "<br><h1>Federal Aviation Administration</h1><li>Flying authority of the USA</li><br> <li> Enforces & issues safety regulations </li><br> <li> Management of air traffic & airspace</li> <br> <li> Certifying foreign aviation & safety</li> <br> <li> Grants licenses </li><br> <li> Registers & records air documents </li><br> <li> R & D </li>"
+        },
+        {
+            "desc": "<br><h1>International Air Transport Association</h1><li>Representing the industry & lobbying government & regulators</li><br><li> Working with airlines to increase pax convenience </li><br><li> Providing support with products & expert services </li>"
+        },
+        {
+            "desc": "<br><h1>International Civil Aviation Organization</h1><CAO = International Civil Aviation Organization<br><br>-main mission is to ensure the safe and orderly growth of international civil aviation throughout the world..’<br>-established in April 1947<br>-believed to be one of the most effective international organizations in the UN system"
+        },
+        {
+            "desc": "<br><h1>Occupational Safety & Health Administration</h1><li>An Agency of the US Department of Labor</li><br><li> Mission is to assure safe and healthy working conditions </li><br> <li> Setting and enforcing standards and by providing training, outreach, education and assistance </li><br> <li> Reduce injury rates and injury costs </li>"
+        }
+    ],
+    "1-2": [
+        {
+            "desc": "<h1>Accidents</h1>An accident is a sudden (negative) event that is not planned or intended and causes damage or injury."
+        },
+        {
+            "desc": "<br><h1>Air Accident</h1>An occurrence associated with the operation of an aircraft that takes place between the time any person boards the aircraft with the intention of flight and the time all such persons have disembarked, and in which any person suffers a fatal or serious injury or the aircraft receives substantial damage."
+        },
+        {
+            "desc": "<br><h1>Facts About Accidents</h1><u>- Complex</u><br>involves multiple causes<br><br><u>- Similar accidents may require different preventive strategies</u><br><br><u>- Related bodies classify accidents by </u><br>Causes<br>sequence of events, phase of operation<br>"
+        },
+        {
+            "img": "../../assets/imgs/1-2.png"
+        },
+        {
+            "desc": "<br><h1>Accident Models…</h1><li>Help explain the relationship between hazards & accidents</li><br> <li> Assist in explaining & understanding reality </li><br> <li> Aid in visualizing topics, issues that cannot be directly observed </li><br> <li> Serve as approximates for events & happening </li>"
+        },
+        {
+            "desc": "<br><h1>Accident Models</h1>*a systematic method of ascertaining the causes of an accident.<br><br>*Models used for risk analysis & risk management of human systems."
+        },
+        {
+            "desc": "<br><h1>Incidents</h1>an event or disagreement that is likely to cause serious problems<br>an unexpected and usually unpleasant event that happens"
+        },
+        {
+            "desc": "<br><h1>Incidents in the Aviation Field</h1>- An occurrence other than an accident associated with the operation of an aircraft that affects or could affect the safety of operations<br><br><li>Hazardous in nature</li><br><li>“Near accidents” </li><br> <li> Not as serious as accidents </li><br> <li> Usually lead to accidents </li><br>though with reporting---they are handled and put to an end"
+        },
+        {
+            "desc": "<br><h1>Examples of Aviation Incidents</h1><li>Flight control system malfunction</li><br> <li> In-flight fire </li><br> <li> FOD (Foreign Object Debris) reported  on runway"
+        },
+        {
+            "desc": "<br><h1>Accident Models</h1>*S.H.E.L.L Model- studies the relationship and interface between software, hardware, environment, and liveware<br><br>*Threat & Error Management Model- studies the possible threats which have tendency lead to error which degrade performance. The model suggest for ways to manage threat to lesson error. <br><br>*Swiss Cheese Model- A model that presumes that organizations are with both visible and latent faults which can be compared to holes in the Swiss Cheese.  The model suggest for the holes to be covered up by different techniques."
+        }
+    ]
+}

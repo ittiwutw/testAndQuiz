@@ -1,0 +1,76 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Which of the following is true about incidents?",
+            "choice": [
+                {
+                    "a": "a.It is done deliberately",
+                    "b": "b.It is irreversible",
+                    "c": "c.It is hazardous in nature and usually leads to accidents"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no2",
+            "question": "2.What is the purpose of having accident models?",
+            "choice": [
+                {
+                    "a": "a.It is for inputting data to generate outcome",
+                    "b": "b.It is for risk analysis and risk management of the human systems",
+                    "c": "c.It is used as part of checklist and part of operation"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.Which of the following is true about air accident?",
+            "choice": [
+                {
+                    "a": "a.It happens as a consequence of planned and deliberate activities",
+                    "b": "b.It takes place in the air only",
+                    "c": "c.It involves injury as well as damage of property"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no4",
+            "question": "4.What is the course of action after occurrence of an accident?",
+            "choice": [
+                {
+                    "a": "a.Accident investigation",
+                    "b": "b.Accident evaluation",
+                    "c": "c.Accident compensation"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.Which of the following is not a name of an accident model?",
+            "choice": [
+                {
+                    "a": "a.Swiss Cheese Model",
+                    "b": "b.T.E.M. Model",
+                    "c": "c.Risk & Hazard Evaluation Model"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no6",
+            "question": "6.Which of the following statement is TRUE?",
+            "choice": [
+                {
+                    "a": "a.Incident always end up as accidents",
+                    "b": "b.Incidents, if handled correctly lead to investigation",
+                    "c": "c.Incidents are events that are unexpected and have negative consequences"
+                }
+            ],
+            "ans": "c"
+        }
+    ]
+}

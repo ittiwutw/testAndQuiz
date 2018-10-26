@@ -1,0 +1,76 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Which of the following is not part of aircraft safety system?",
+            "choice": [
+                {
+                    "a": "a.Cabin safety system",
+                    "b": "b.Onboard communication system",
+                    "c": "c.Aircraft electrical system"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no2",
+            "question": "2.Which of the following are cabin safety equipment?",
+            "choice": [
+                {
+                    "a": "a.Lifevest & slides",
+                    "b": "b.Megaphone & Navaids",
+                    "c": "c.Floatation device & Stall protection"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no3",
+            "question": "3.Which of the following is intra-communication system of an aircraft?",
+            "choice": [
+                {
+                    "a": "a.Datalink",
+                    "b": "b.Interphone",
+                    "c": "c.Navaid"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.Which of the following is not cockpit safety system?",
+            "choice": [
+                {
+                    "a": "a.Stall protection",
+                    "b": "b.Over bank protection",
+                    "c": "c,Floatation device"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no5",
+            "question": "5.What is to be done when the aircraft is going through fueling with passengers on board?",
+            "choice": [
+                {
+                    "a": "a.Passengers can move around",
+                    "b": "b.Passengers will have to leave the aircraft, and wait to be reboarded.",
+                    "c": "c.Passengers will have to be told by flight attendants to release seat belt, remain seated, and do not smoke."
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no6",
+            "question": "6.Which of the following is an example of emergency briefing to passengers?",
+            "choice": [
+                {
+                    "a": "a.Briefing to passengers seated at the emergency exit row",
+                    "b": "b.Briefing to passengers about the usage of on board equipment",
+                    "c": "c.Briefing to passengers about where on board facilities are"
+                }
+            ],
+            "ans": "a"
+        }
+    ]
+}

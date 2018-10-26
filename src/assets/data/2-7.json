@@ -1,0 +1,59 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.If the hair does not get dirty with sweat, it is not necessary to wash it.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2.It is advisable to trim the tips of the hair to avoid dried and split ends.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no3",
+            "question": "3.As long as the hair style is in trend, it is recommended for a job interview.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no4",
+            "question": "4.It is advisable to keep the hair out of the face on the day of the interview.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no5",
+            "question": "5.Gray and white hair can not be avoided, therefore should be left the way they are.",
+            "choice": [
+                {
+                    "a": "True",
+                    "b": "False"
+                }
+            ],
+            "ans": "b"
+        }
+    ]
+}

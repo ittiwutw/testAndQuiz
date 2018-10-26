@@ -1,0 +1,76 @@
+{
+    "Quiz": [
+        {
+            "model": "no1",
+            "question": "1.Airport Emergency Plans are to be documented, published, ________, and __________.",
+            "choice": [
+                {
+                    "a": "a.coordinated and evaluated",
+                    "b": "b.distributed and evaluated",
+                    "c": "c.distributed and coordinated"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no2",
+            "question": "2.What is an essential component of an airport emergency plan?",
+            "choice": [
+                {
+                    "a": "a.Quarterly review",
+                    "b": "b.Drills every 3 years",
+                    "c": "c.Monthly review and drill once a year"
+                }
+            ],
+            "ans": "b"
+        },
+        {
+            "model": "no3",
+            "question": "3.What is the document that all commercial airports must have?",
+            "choice": [
+                {
+                    "a": "a.Airport Certification Manual",
+                    "b": "b.Airport Documentation Certification",
+                    "c": "c.Airport Control Manual"
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no4",
+            "question": "4.What is NAVAIDS?",
+            "choice": [
+                {
+                    "a": "a.It is the tool used by ATC",
+                    "b": "b.It is the tool used at the airport for safety management",
+                    "c": "c.It is the tool used for nautical or aviation travel"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no5",
+            "question": "5.The ACM does not contain which of the following?",
+            "choice": [
+                {
+                    "a": "a.Fire-fighting procedure",
+                    "b": "b.Airport Emergency Plan",
+                    "c": "c.Fee for different services"
+                }
+            ],
+            "ans": "c"
+        },
+        {
+            "model": "no6",
+            "question": "6.Which of the following is not considered as an airport emergency?",
+            "choice": [
+                {
+                    "a": "a.Hi-jacking",
+                    "b": "b.F.O.D.",
+                    "c": "c.Power failure"
+                }
+            ],
+            "ans": "b"
+        }
+    ]
+}

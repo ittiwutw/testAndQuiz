@@ -1,0 +1,42 @@
+{
+    "pretest": [
+        {
+            "model": "no1",
+            "question": "1. During flight, a damaged dangerous goods package is found in the cabin. According to the Emergency Response Guidance, 100% oxygen supply is necessary. How could the flight attendants protect themselves against possible dangerous vapor in the cabin?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that the flight attendant makes use of all the available ‘protective breathing equipment’ in order to protect themselves from the dangerous vapor in the cabin",
+                    "b": "b.It is necessary that the flight attendant prepares to evacuate the passengers to the nearest available sector in order to stay away from the dangerous vapor.",
+                    "c": "c.It is necessary that the flight attendant prepares to depressurize the cabin with coordination from the cockpit crew.",
+                    "d": "d.It is necessary that the flight attendant puts on face mask and stay away from the affected area."
+                }
+            ],
+            "ans": "a"
+        },
+        {
+            "model": "no2",
+            "question": "2. If hijacking occurs during flight, what are the correct courses of action?",
+            "choice": [
+                {
+                    "a": "a.It is necessary that the flight attendants communicate directly with the hijacker and prepare for emergency landing.",
+                    "b": "b.It is necessary that flight attendants keep passengers in their seats with seat belts fastened in order to avoid interference, and have one flight attendant assigned to communicate with the hijacker.",
+                    "c": "c.It is necessary for flight attendants to get the involvement and coordination from the captain in order to communicate with the hijacker.",
+                    "d": "d.It is necessary for flight attendants to make use of restraint devices in order to lock up the hijacker."
+                }
+            ],
+            "ans": "b"
+        }
+    ],
+    "posttest": [
+        {
+            "model": "no2",
+            "question": "2. During flight, a damaged dangerous goods package is found in the cabin. According to the Emergency Response Guidance, 100% oxygen supply is necessary. How could the flight attendants protect themselves against possible dangerous vapor in the cabin?",
+            "choice": [
+                {
+                    "a": "aaa",
+                    "b": "bbb"
+                }
+            ]
+        }
+    ]
+}
