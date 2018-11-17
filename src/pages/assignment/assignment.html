@@ -1,0 +1,47 @@
+<!--
+  Generated template for the AssignmentPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title text-center>Submit Assignments</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-card class="custom-card">
+    <ion-card-header text-wrap text-center>
+      Assigment 1
+    </ion-card-header>
+    <ion-card-content>
+      <p>Record yourself putting on makeup by following the steps you have learned,
+        with the theme of going for job interview</p>
+      <br>
+      <button ion-button block (click)="chooseVideo('assignment1')">Upload Assigment</button>
+    </ion-card-content>
+  </ion-card>
+  <br>
+
+  <ion-card class="custom-card">
+    <ion-card-header text-wrap text-center>
+      Assigment 2
+    </ion-card-header>
+    <ion-card-content>
+      <p>Record yourself matching makeup, hairdo, and suittable attire for job interview. Make a 5-minute speech
+        introducing yourself as to include your strong and weak points.</p>
+      <br>
+      <button ion-button block (click)="chooseVideo('assignment2')">Upload Assigment</button>
+    </ion-card-content>
+  </ion-card>
+<br>
+<br>
+  <h1 text-center style="color: red;">
+      After uploaded Assigment, please wait until 'file uploaded successfully!!' Present.
+    </h1>
+
+</ion-content>

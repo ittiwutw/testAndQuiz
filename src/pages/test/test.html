@@ -16,7 +16,7 @@
 <ion-content padding>
   <h1 text-center>{{subject}}</h1>
 
-  <ion-card *ngFor="let info of testData;let i=index">
+  <ion-card class="custom-card" *ngFor="let info of testData;let i=index">
     <ion-card-header text-wrap>
       {{info.question}}
     </ion-card-header>

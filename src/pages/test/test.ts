@@ -1,7 +1,8 @@
-import { Component } from '@angular/core';
+import { Component,ViewChild } from '@angular/core';
 import { IonicPage, NavController, NavParams, AlertController } from 'ionic-angular';
 import { AngularFireDatabase } from 'angularfire2/database';
 import { TestListPage } from '../test-list/test-list'
+import { Navbar } from 'ionic-angular';
 
 
 /**
@@ -17,7 +18,7 @@ import { TestListPage } from '../test-list/test-list'
   templateUrl: 'test.html',
 })
 export class TestPage {
-
+  @ViewChild(Navbar) navBar: Navbar;
   testData = [];
   testerName: string = "";
   type: string = "";
@@ -32,6 +33,12 @@ export class TestPage {
   }
 
   ionViewDidLoad() {
+
+    this.navBar.backButtonClick = (e:UIEvent)=>{
+      // todo something
+      clearTimeout(this.timer);
+      this.navCtrl.pop();
+     }
 
     let alert = this.alertCtrl.create({
       title: 'You have 3 Mins',
@@ -123,6 +130,7 @@ export class TestPage {
   }
 
   setData(data, type) {
+    type = "posttest";
     let size = data["" + type]["length"];
 
     for (var i = 0; i <= size - 1; i++) {

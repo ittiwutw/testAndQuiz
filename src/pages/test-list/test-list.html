@@ -7,46 +7,49 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>testList</ion-title>
+    <ion-title text-center>Test</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 
 <ion-content padding>
-  <ion-card (click)="selectTest('Onboard-Safety-and-Security','pretest')">
-    <ion-card-header>
+  <ion-card class="custom-card" >
+    <ion-card-header text-wrap text-center>
       Onboard Safety and Security
     </ion-card-header>
     <ion-card-content>
-      Pretest
+      <ion-grid>
+        <ion-row>
+          <ion-col col-6>
+            <button ion-button block (click)="selectTest('Onboard-Safety-and-Security','pretest')">Pre-test</button>
+          </ion-col>
+
+          <ion-col col-6>
+            <button ion-button block (click)="selectTest('Onboard-Safety-and-Security','posttest')">Post-test</button>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
     </ion-card-content>
   </ion-card>
 
-  <ion-card (click)="selectTest('Onboard-Safety-and-Security','posttest')">
-    <ion-card-header>
-      Onboard Safety and Security
+  <ion-card class="custom-card" >
+    <ion-card-header text-wrap text-center>
+      Personality Development and Grooming
     </ion-card-header>
     <ion-card-content>
-        Post-test
+      <ion-grid>
+        <ion-row>
+          <ion-col col-6>
+            <button ion-button block (click)="selectTest('Personality-Development-and-Grooming','pretest')">Pre-test</button>
+          </ion-col>
+
+          <ion-col col-6>
+            <button ion-button block (click)="selectTest('Personality-Development-and-Grooming','posttest')">Post-test</button>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
     </ion-card-content>
   </ion-card>
 
-  <ion-card (click)="selectTest('Personality-Development-and-Grooming','pretest')">
-      <ion-card-header>
-        Personality Development and Grooming
-      </ion-card-header>
-      <ion-card-content>
-        Pretest
-      </ion-card-content>
-    </ion-card>
-  
-    <ion-card (click)="selectTest('Personality-Development-and-Grooming','posttest')">
-      <ion-card-header>
-        Personality Development and Grooming
-      </ion-card-header>
-      <ion-card-content>
-          Post-test
-      </ion-card-content>
-    </ion-card>
 </ion-content>
